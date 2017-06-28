@@ -1,0 +1,31 @@
+.chirp {
+    height:110px;
+    width: 550px;
+    background-color: tan;
+    position: relative;
+    color: black;   
+    
+}
+
+a:link    {
+  text-decoration:  none;
+  font-weight:      bold;
+  background-color: #ddd;
+  color:            blue;
+  cursor: hand;
+  } 
+
+.chirp h4 {
+    background-color: powderblue;
+}
+
+#delete-button{
+    background-color: red;
+}
+
+.chirp h5{
+    position: static;
+    bottom:0px;
+    left:0px;
+}
+
